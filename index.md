@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 
 # Binoy Biswas
 
@@ -16,4 +16,4 @@
 >## Hobbies
 
 >>  Learning Coding
->>  uyg
+>>  skiing
