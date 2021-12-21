@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="/images/text.png">
+
 # Binoy Biswas
 
 > ## Interested in
@@ -11,6 +13,6 @@
 >>- B.Ed (Appearing)
 >>- B.Sc in Programming and Data Science (Appearing)
 
-## Hobbies
+>## Hobbies
 
->  Learning Coding
+>>  Learning Coding
