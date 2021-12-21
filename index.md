@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="/images/text.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Binoy Biswas
 
@@ -16,3 +16,4 @@
 >## Hobbies
 
 >>  Learning Coding
+>>  uyg
