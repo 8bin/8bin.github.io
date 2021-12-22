@@ -43,5 +43,6 @@
 
 Made with 💖 by [Binoy B](https://www.facebook.com/BenuBinoy)
 
+<!--
 [![](/images/tw.svg)](https://www.twitter.com) ![](/images/fb.svg)
 ![](/images/pinterest.svg) ![](/images/ig.svg) 
