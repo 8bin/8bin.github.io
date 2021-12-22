@@ -42,3 +42,6 @@
 [Visit](https://8bin.github.io/) tomorrow for updates.
 
 Made with 💖 by [Binoy B](https://www.facebook.com/BenuBinoy)
+
+![](/images/tw.svg) ![](/images/fb.svg)
+![](/images/pinterest.svg) ![](/images/ig.svg) 
