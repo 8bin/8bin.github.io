@@ -19,7 +19,7 @@
 >>- Learning Coding 🧑‍💻 
 >>- Watching Movie 🎬
 
->## Dare/Wanted to Do 🔫
+>## Dare 🔫
 >
 >>- Skiing ⛷️
 >>- Sky Driving
