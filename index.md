@@ -13,8 +13,10 @@
 > ## Education 🔰
 >>- M.A. in English Language and Literature
 >>- UGC-NET(ENG) 2019
->>- B.Ed (Appearing)
+>>- B.Ed (Appearing) 
+>>  Malda Govt. Teacher's Training College
 >>- B.Sc in Programming and Data Science (Appearing)
+>>  IIT Madras
 >
 >## Hobbies ✌️
 >> |Learning Coding 🧑‍💻 | Video Games🎮|  
