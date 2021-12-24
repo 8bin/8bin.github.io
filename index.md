@@ -3,6 +3,8 @@
 
 # **Binoy Biswas**
 
+- In an age of rush, without jumping on the bandwagon, trying to feel importance of being, purpose of my life. Don't know what is the simple truth of having me here. But one thing I know, instead of being a student of literature, *language of computers* always allures me. After all, *["Destiny is All."][quote1]*
+
 > ## Interested in 💕
 >>- Digital Humanities 
 >>- Research
@@ -15,15 +17,21 @@
 >>- B.Sc in Programming and Data Science (Appearing)
 >
 >## Hobbies ✌️
+>> |Learning Coding 🧑‍💻 | Video Games🎮|  
+>> | --- | --- |    
+>> |Watching Movie 🎬| Travelling🧳|
 >
->>- Learning Coding 🧑‍💻 
->>- Watching Movie 🎬
-
+>
 >## Dare 🔫
->
 >>- Skiing ⛷️
->>- Sky Driving
-
+>>- Skydiving 😶‍🌫️
+>>- Paragliding 🪂 
+>
+>## 2*k*22 Plan
+>>- Crack JRF
+>>- Write couple of Articles related to Digital Humanities 
+>>- Good grasp on Python 
+>>- **. . .**
 
 ---
 ---
@@ -40,5 +48,6 @@
 
 [//]: # "Links"
 
+[quote1]: https://www.imdb.com/title/tt4179452/ "The Last Kingdom"
 [8bin]: https://8bin.github.io/
 [fb]: https://www.facebook.com/BenuBinoy
