@@ -44,8 +44,8 @@ Thanks for [Visiting][8bin]. See you Tomorrow!!
 [Contact Me][about]
 
 
-- [X] Made with 💖 by ***[Binoy B][fb]***  
-- [ ] mail at <mail@mail.com>
+1. [X] Made with 💖 by ***[Binoy B][fb]***  
+1. [ ] mail at <mail@mail.com>
 
 
 
