@@ -39,7 +39,10 @@
 [![TestTypingGIF](https://user-images.githubusercontent.com/76905816/147009373-b6ea42e7-b49f-4e81-926d-d6955f0a7eec.gif "Do not Scroll !")][8bin]
 
 ---
-[Visit][8bin] tomorrow for updates.
+Thanks for [Visiting][8bin]. See you Tomorrow!!
+
+[Contact Me][about]
+
 
 - [X] Made with 💖 by ***[Binoy B][fb]***  
 - [ ] mail at <mail@mail.com>
@@ -51,3 +54,4 @@
 [quote1]: https://www.imdb.com/title/tt4179452/ "The Last Kingdom"
 [8bin]: https://8bin.github.io/
 [fb]: https://www.facebook.com/BenuBinoy
+[about]: https://8bin.github.io/about/contact-us.md
