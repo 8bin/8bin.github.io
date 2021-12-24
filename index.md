@@ -3,6 +3,7 @@
 
 # **Binoy Biswas**
 
+- I'm a literature student, and programming enthusiast.
 - In an age of rush, without jumping on the bandwagon, trying to feel importance of being, purpose of my life. Don't know what is the simple truth of having me here. But one thing I know, instead of being a student of literature, *language of computers* always allures me. After all, *["Destiny is All."][quote1]*
 
 > ## Interested in 💕
