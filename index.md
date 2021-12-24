@@ -43,10 +43,12 @@
 ---
 Thanks for [Visiting][8bin]. See you Tomorrow!!
 
+Made with 💖 by ***[Binoy B][fb]*** 
+
 [Contact Me][about]
 
 
-1. [X] Made with 💖 by ***[Binoy B][fb]***  
+1. [X] [WhatsApp][wa]
 1. [ ] mail at <mail@mail.com>
 
 
@@ -56,4 +58,5 @@ Thanks for [Visiting][8bin]. See you Tomorrow!!
 [quote1]: https://www.imdb.com/title/tt4179452/ "The Last Kingdom"
 [8bin]: https://8bin.github.io/
 [fb]: https://www.facebook.com/BenuBinoy
+[wa]: https://api.whatsapp.com/qr/OD7XLNT4K56UH1
 [about]: https://8bin.github.io/about/contact-us.md
