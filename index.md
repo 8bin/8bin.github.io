@@ -1,3 +1,5 @@
+<!---
+
 [![ "I woke up this morning, I'm blessed. You woke this morning, you are blessed."](https://scontent.fccu3-1.fna.fbcdn.net/v/t1.6435-9/p180x540/73458645_1377498012410387_5595597519099789312_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=2eqnjS4ThpUAX92VU0b&_nc_ht=scontent.fccu3-1.fna&oh=00_AT-mAiXMWx9c_Z3UQCUQQkouPpVuZVW9fPg236GbjhMmHA&oe=61E72C63 "I woke up this morning, I am blessed. You woke up this morning, you are blessed.")][8bin]
 
 
@@ -61,3 +63,5 @@ Made with 💖 by ***[Binoy B][fb]***
 [fb]: https://www.facebook.com/BenuBinoy
 [wa]: https://api.whatsapp.com/qr/OD7XLNT4K56UH1
 [about]: https://8bin.github.io/about/contact-us.md
+
+--->
