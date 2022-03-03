@@ -5,7 +5,7 @@
 
 # **Binoy Biswas**
 
-- I'm a literature student, and programming enthusiast.
+- A student of English literature, and programming enthusiast.
 - In an age of rush, without jumping on the bandwagon, trying to feel importance of being, purpose of my life. Don't know what is the simple truth of having me here. But one thing I know, instead of being a student of literature, *language of computers* always allures me. After all, *["Destiny is All."][quote1]*
 
 > ## Interested in 💕
@@ -60,7 +60,7 @@ Made with 💖 by ***[Binoy B][fb]***
 
 [quote1]: https://www.imdb.com/title/tt4179452/ "The Last Kingdom"
 [8bin]: https://8bin.github.io/
-[fb]: https://www.facebook.com/BenuBinoy
+[fb]: https://www.facebook.com/8bin.benu
 [wa]: https://api.whatsapp.com/qr/OD7XLNT4K56UH1
 [about]: https://8bin.github.io/about/contact-us.md
 
