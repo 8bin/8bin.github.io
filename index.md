@@ -18,8 +18,10 @@
 >>- UGC-NET(ENG) 2019
 >>- B.Ed (Appearing)   
 >>  Malda Govt. Teachers' Training College
->>- B.Sc in Programming and Data Science (Appearing)  
+<!--- 
+>>-  B.Sc in Programming and Data Science (Appearing)  
 >>  IIT Madras
+--->
 >
 >## Hobbies ✌️
 >> |Learning Coding 🧑‍💻 | Video Games🎮|  
@@ -34,7 +36,7 @@
 >
 >## 2*k*22 Plan
 >>- Crack JRF
->>- Write couple of Articles related to Digital Humanities 
+>>- Publish couple of Articles related to Digital Humanities 
 >>- Good grasp on Python 
 >>- **. . .**
 
@@ -64,4 +66,4 @@ Made with 💖 by ***[Binoy B][fb]***
 [wa]: https://api.whatsapp.com/qr/OD7XLNT4K56UH1
 [about]: https://8bin.github.io/about/contact-us.md
 
---->
+
